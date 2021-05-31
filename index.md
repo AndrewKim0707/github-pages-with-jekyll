@@ -22,3 +22,5 @@ Andrew Kim
 
 (Award) 2nd Degree Black Belt 
 
+theme: Minima
+
